@@ -1,0 +1,8 @@
+
+"""FLOYD CRYPTO BOT PRO.
+
+Algorithmic cryptocurrency trading platform.
+"""
+
+__version__ = "0.1.0"
+__app_name__ = "FLOYD CRYPTO BOT PRO"
